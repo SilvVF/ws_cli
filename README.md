@@ -8,7 +8,7 @@ add wsclient.exe to path
 ```shell
  wsclient -addr "localhost:8080" -path "/echo"
 ```
-connects to the ws and from stdin
+connects to the ws and reads from stdin
 escape seq is os default
 
 ### flags
